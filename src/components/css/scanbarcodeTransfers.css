@@ -1,0 +1,35 @@
+.cradrow-loacation-wrap{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    background-color:aliceblue;
+    padding: 2px;
+
+}
+
+.cradrow-cutitem-wrap{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:flex-start;
+    width: 100%;
+    background-color:aliceblue;
+    padding: 2px;
+
+
+}
+
+.cradrow-cutitem-left-wrap{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:space-between;
+    width: 100%;
+    background-color:aliceblue;
+    padding: 2px;
+    
+    
+
+}

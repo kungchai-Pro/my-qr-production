@@ -1,0 +1,9 @@
+.row-div{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    padding: 10;
+    background-color: azure;
+    margin: 5;
+    justify-content: space-between;
+}

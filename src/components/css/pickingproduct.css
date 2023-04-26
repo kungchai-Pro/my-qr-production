@@ -1,0 +1,20 @@
+.boxrigth {
+    position: absolute;  
+    right: 10%;    
+    float: right;
+    margin-inline: 20px;
+}
+.boxLeft{
+    width: 'auto';
+    display: inline;
+    justify-content: center;
+}
+.row-div-space-between{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    padding: 10;
+    background-color: azure;
+    margin: 5;
+    justify-content: space-between;
+}
